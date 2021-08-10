@@ -5,7 +5,9 @@
 }
 
 body {
-    background-image: url('15.jpeg') no-repeat, cover;
+    background-image: url('15.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
     align-items: center;
     justify-content: center;
     text-align: center;
